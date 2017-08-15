@@ -1,0 +1,1 @@
+Details of sales, profits and other info of a Superstore is analyzed using various Tableau features viz Stories, Dashboards, Worksheets. Superstore data is in Superstore.xls in this repository. This tableau workbook is also available on Tableau public at [https://public.tableau.com/profile/shabeer1564#!/vizhome/TableauVisualizationofSalesProfitsofSuperstore/Story1]
